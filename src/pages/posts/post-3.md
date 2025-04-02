@@ -5,6 +5,9 @@ pubDate: 2022-07-01
 description: "This is the third post of my new Astro blog."
 author: "Astro Learner"
 tags: ["astro", "community", "learning in public"]
+image:
+  url: "https://docs.astro.build/assets/rose.webp"
+  alt: "The Astro logo on a dark background with a pink glow."
 ---
 
 # My Third Blog Post
